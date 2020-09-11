@@ -1,0 +1,18 @@
+
+---------- V2Ray 配置信息 -------------
+ 地址 (Address) = 34.96.247.71
+ 端口 (Port) = 43846
+ 用户ID (User ID / UUID) = 7d8f9ee4-8ac5-4638-9747-36f07d3643fc
+ 额外ID (Alter Id) = 233
+ 传输协议 (Network) = tcp
+ 伪装类型 (header type) = none
+---------- END -------------
+V2Ray 客户端使用教程: https://233v2.com/post/4/
+提示: 输入 v2ray url 可生成 vmess URL 链接 / 输入 v2ray qr 可生成二维码链接
+免被墙..推荐使用JMS: https://getjms.com
+root@hk-01:~# 
+root@hk-01:~# v2ray url
+---------- V2Ray vmess URL / V2RayNG v0.4.1+ / V2RayN v2.1+ / 仅适合部分客户端 -------------
+vmess://ewoidiI6ICIyIiwKInBzIjogIjIzM3YyLmNvbV8zNC45Ni4yNDcuNzEiLAoiYWRkIjogIjM0Ljk2LjI0Ny43MSIsCiJwb3J0IjogIjQzODQ
+2IiwKImlkIjogIjdkOGY5ZWU0LThhYzUtNDYzOC05NzQ3LTM2ZjA3ZDM2NDNmYyIsCiJhaWQiOiAiMjMzIiwKIm5ldCI6ICJ0Y3AiLAoidHlwZSI6IC
+Jub25lIiwKImhvc3QiOiAiIiwKInBhdGgiOiAiIiwKInRscyI6ICIiCn0K
